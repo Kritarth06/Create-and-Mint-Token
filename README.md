@@ -39,13 +39,13 @@ Switch to the "Solidity Compiler" tab located on the right side.
 
 Under the "Compiler Configuration" section, select the appropriate compiler version matching the one used in the MyToken contract.
 
-Click the "Compile SujalToken.sol" button to compile the contract.
+Click the "Compile KritarthToken.sol" button to compile the contract.
 
 After successful compilation, switch to the "Deploy & Run Transactions" tab.
 
 Under the "Environment" dropdown, select "Injected Web3" to connect Remix to MetaMask.
 
-Click the "Deploy" button next to the contract name (SujalToken).
+Click the "Deploy" button next to the contract name (KritarthToken).
 
 In the contract deployment section, specify the desired values for the constructor parameters (_name, _symbol, _totalSupply).
 
