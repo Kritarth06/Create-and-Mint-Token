@@ -69,7 +69,8 @@ Once the contract is deployed, you can interact with it using various methods: T
 Prerequisites:
 Install MetaMask extension in your web browser. Configure MetaMask to connect to the appropriate network (e.g., Localhost or Testnet). Deploy the MyToken contract to the chosen network.
 
-Authors
+**Author**
+
 Kritarth Singh 21BCS5418@cuchd.in
 
 License
